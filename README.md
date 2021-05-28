@@ -1,2 +1,2 @@
-# LinearRegression
-Implementation of simple Linear Regression with gradient search.
+# Linear Regression
+Implementation of simple one variable Linear Regression with gradient search.
